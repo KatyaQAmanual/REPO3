@@ -1,0 +1,30 @@
+body {
+  background-color:beige;
+}
+
+h1 {
+  color:darkblue;
+  text-align: center;
+}
+h2 {
+  color:blue;
+  text-align: center;
+}
+.two {
+text-decoration: overline;
+}
+
+article {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  }
+#one {
+color:green;
+}
+img {
+   border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
